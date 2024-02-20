@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.xiFMR0TK.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Element_Table/pageJe壹贰叁.md","filePath":"Element_Table/pageJe壹贰叁.md"}'),n={name:"Element_Table/pageJe壹贰叁.md"};function r(o,_,s,c,p,l){return t(),a("div")}const i=e(n,[["render",r]]);export{d as __pageData,i as default};

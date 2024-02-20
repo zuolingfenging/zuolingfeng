@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.xiFMR0TK.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Element/穿梭框.md","filePath":"Element/穿梭框.md"}'),n={name:"Element/穿梭框.md"};function r(o,s,c,_,m,p){return t(),a("div")}const l=e(n,[["render",r]]);export{i as __pageData,l as default};

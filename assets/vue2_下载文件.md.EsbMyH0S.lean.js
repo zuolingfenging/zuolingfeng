@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,R as l}from"./chunks/framework.xiFMR0TK.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"vue2/下载文件.md","filePath":"vue2/下载文件.md"}'),p={name:"vue2/下载文件.md"},o=l("",3),e=[o];function c(r,t,E,y,i,d){return n(),a("div",null,e)}const F=s(p,[["render",c]]);export{m as __pageData,F as default};
