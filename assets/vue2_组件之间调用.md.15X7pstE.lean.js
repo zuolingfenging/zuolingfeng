@@ -1,1 +1,0 @@
-import{_ as s,o as n,c as a,R as l}from"./chunks/framework.xiFMR0TK.js";const u=JSON.parse('{"title":"组件通讯","description":"","frontmatter":{},"headers":[],"relativePath":"vue2/组件之间调用.md","filePath":"vue2/组件之间调用.md"}'),p={name:"vue2/组件之间调用.md"},e=l("",13),o=[e];function t(c,r,E,i,y,d){return n(),a("div",null,o)}const m=s(p,[["render",t]]);export{u as __pageData,m as default};

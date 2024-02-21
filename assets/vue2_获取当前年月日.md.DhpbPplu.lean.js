@@ -1,1 +1,0 @@
-import{_ as s,o as a,c as n,R as l}from"./chunks/framework.xiFMR0TK.js";const d=JSON.parse('{"title":"年 月 辰","description":"","frontmatter":{},"headers":[],"relativePath":"vue2/获取当前年月日.md","filePath":"vue2/获取当前年月日.md"}'),o={name:"vue2/获取当前年月日.md"},p=l("",2),e=[p];function t(r,c,y,E,i,F){return a(),n("div",null,e)}const D=s(o,[["render",t]]);export{d as __pageData,D as default};
