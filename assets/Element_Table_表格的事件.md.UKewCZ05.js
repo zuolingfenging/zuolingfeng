@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.BMSw91m9.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Element_Table/表格的事件.md","filePath":"Element_Table/表格的事件.md"}'),_={name:"Element_Table/表格的事件.md"};function n(r,o,s,c,l,m){return t(),a("div")}const i=e(_,[["render",n]]);export{d as __pageData,i as default};
