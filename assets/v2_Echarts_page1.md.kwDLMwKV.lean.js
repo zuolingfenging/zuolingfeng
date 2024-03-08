@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.BMSw91m9.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"v2/Echarts/page1.md","filePath":"v2/Echarts/page1.md"}'),r={name:"v2/Echarts/page1.md"};function s(c,o,n,p,_,d){return t(),a("div")}const f=e(r,[["render",s]]);export{m as __pageData,f as default};

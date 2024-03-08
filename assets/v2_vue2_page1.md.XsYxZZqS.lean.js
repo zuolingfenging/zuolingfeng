@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,R as e}from"./chunks/framework.BMSw91m9.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"v2/vue2/page1.md","filePath":"v2/vue2/page1.md"}'),p={name:"v2/vue2/page1.md"},l=e("",2),o=[l];function c(r,t,i,d,E,_){return a(),n("div",null,o)}const y=s(p,[["render",c]]);export{u as __pageData,y as default};

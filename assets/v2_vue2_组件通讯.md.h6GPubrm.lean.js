@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.BMSw91m9.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"v2/vue2/组件通讯.md","filePath":"v2/vue2/组件通讯.md"}'),r={name:"v2/vue2/组件通讯.md"};function o(s,c,n,_,p,d){return t(),a("div")}const f=e(r,[["render",o]]);export{m as __pageData,f as default};
