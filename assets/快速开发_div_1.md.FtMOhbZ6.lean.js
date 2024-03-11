@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as r,R as a}from"./chunks/framework.BMSw91m9.js";const g=JSON.parse('{"title":"技术文档","description":"","frontmatter":{},"headers":[],"relativePath":"快速开发/div_1.md","filePath":"快速开发/div_1.md"}'),n={name:"快速开发/div_1.md"},o=a("",8),p=[o];function s(i,_,c,h,l,d){return t(),r("div",null,p)}const u=e(n,[["render",s]]);export{g as __pageData,u as default};
