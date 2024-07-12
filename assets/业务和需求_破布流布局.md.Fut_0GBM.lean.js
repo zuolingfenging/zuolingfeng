@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,R as l}from"./chunks/framework.BMSw91m9.js";const g=JSON.parse('{"title":"破布流布局","description":"","frontmatter":{},"headers":[],"relativePath":"业务和需求/破布流布局.md","filePath":"业务和需求/破布流布局.md"}'),p={name:"业务和需求/破布流布局.md"},o=l("",4),t=[o];function e(c,r,E,y,i,F){return n(),a("div",null,t)}const d=s(p,[["render",e]]);export{g as __pageData,d as default};
