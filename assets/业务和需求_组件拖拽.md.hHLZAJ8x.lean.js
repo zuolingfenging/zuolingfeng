@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,R as l}from"./chunks/framework.BMSw91m9.js";const m=JSON.parse('{"title":"组件拖拽","description":"","frontmatter":{},"headers":[],"relativePath":"业务和需求/组件拖拽.md","filePath":"业务和需求/组件拖拽.md"}'),p={name:"业务和需求/组件拖拽.md"},o=l("",2),e=[o];function t(c,r,E,y,i,u){return n(),a("div",null,e)}const g=s(p,[["render",t]]);export{m as __pageData,g as default};
