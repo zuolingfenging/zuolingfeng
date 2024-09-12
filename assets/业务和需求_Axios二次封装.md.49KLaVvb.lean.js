@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o}from"./chunks/framework.BMSw91m9.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"业务和需求/Axios二次封装.md","filePath":"业务和需求/Axios二次封装.md"}'),a={name:"业务和需求/Axios二次封装.md"};function s(r,c,n,_,i,p){return t(),o("div")}const f=e(a,[["render",s]]);export{m as __pageData,f as default};
